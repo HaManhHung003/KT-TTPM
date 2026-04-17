@@ -1,0 +1,1 @@
+console.log("Ứng dụng Node.js chạy bằng Multi-stage Build thành công!");
